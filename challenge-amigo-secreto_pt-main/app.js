@@ -52,5 +52,5 @@ function sortearAmigo() {
     let amigoSorteado = amigos[indiceSorteado];
 
     // Exibe o resultado na página (Corrigido o ID)
-    document.getElementById("resultado").innerHTML = `🎉 Amigo sorteado: <strong>${amigoSorteado}</strong>`;
+    document.getElementById("resultado").innerHTML = `Amigo sorteado: <strong>${amigoSorteado}</strong>`;
 }
