@@ -9,10 +9,6 @@ Este é um projeto interativo de **Amigo Secreto**, onde você pode adicionar no
 ✅ Sortear um nome aleatório  
 ✅ Interface responsiva e amigável  
 
-## 🖼️ Captura de Tela
-
-![Amigo Secreto](assets/amigo-secreto.png)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** → Estrutura do site  
