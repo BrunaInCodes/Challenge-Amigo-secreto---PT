@@ -19,14 +19,18 @@ Este é um projeto interativo de Amigo Secreto, onde você pode adicionar nomes 
 
 1. Clone o repositório:
 git clone https://github.com/BrunaInCodes/Challenge-Amigo-secreto---PT.git
-Abra o arquivo index.html em seu navegador.
 
-Para adicionar um amigo à lista:
+2. Abra o arquivo index.html em seu navegador.
 
-Digite o nome na caixa de texto e clique no botão Adicionar.
+3. Para adicionar um amigo à lista:
+
+4. Digite o nome na caixa de texto e clique no botão Adicionar.
 Para sortear um amigo secreto:
 
-Clique no botão Sortear amigo e veja o resultado exibido logo abaixo.
-Link interativo: Você também pode interagir com o projeto diretamente no site online.
+5. Clique no botão Sortear amigo e veja o resultado exibido logo abaixo.
+
+   
+## Link interativo: Você também pode interagir com o projeto diretamente no site online, acesse:
+https://desafioamigosecreto-five.vercel.app/
 
 
